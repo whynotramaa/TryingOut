@@ -31,3 +31,17 @@ body > div {
 .counter > span {
     color: red;
 }
+
+div > button {
+    padding: 14px 18px;
+    outline: none;
+    border: none;
+    border-radius: 8px;
+    margin-top: 12px;
+    transition: all 0.8s;
+}
+
+button:hover {
+    background: #ccc;
+    padding: 16px 20x;
+}
