@@ -7,7 +7,7 @@
 
 ---
 
-## Day 02 – Classification Models
+## Day 02 – Classification Models - MON
 - [ ] Logistic Regression
 - [ ] Naive Bayes
 - [ ] KNN
@@ -16,7 +16,7 @@
 
 ---
 
-## Day 03 – Ensemble Learning
+## Day 03 – Ensemble Learning - TUE
 - [ ] Bagging
 - [ ] Random Forest
 - [ ] Boosting
@@ -27,7 +27,7 @@
 
 ---
 
-## Day 04 – Model Evaluation
+## Day 04 – Model Evaluation - WED
 
 ### Regression Metrics
 - [ ] MSE
@@ -46,19 +46,19 @@
 
 ---
 
-## Day 05 – Handling Imbalanced Data
+## Day 05 – Handling Imbalanced Data - THU
 - [ ] Oversampling
 - [ ] Undersampling
 - [ ] SMOTE
 
 ---
 
-## Day 06 – Dimensionality Reduction
+## Day 06 – Dimensionality Reduction - FRI
 - [ ] PCA (intuition + implementation)
 
 ---
 
-## Day 07 – Hyperparameter Optimization
+## Day 07 – Hyperparameter Optimization - SAT
 - [ ] GridSearchCV
 - [ ] RandomSearchCV
 - [ ] Basic Bayesian Optimization

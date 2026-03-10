@@ -23,13 +23,12 @@
 ---
 
 ## Day 3
-- [ ] 13. Building RESTful APIs with NodeJS & Express
-- [ ] 14. Middleware in NodeJS & Express (Custom & Third-party)
-- [ ] 15. What is Header in HTTP?
-- [ ] 16. HTTP Status Codes
-- [ ] 17. Intro to MongoDB & Mongoose
-- [ ] 18. Connecting NodeJS with MongoDB
-
+- [x] 13. Building RESTful APIs with NodeJS & Express
+- [x] 14. Middleware in NodeJS & Express (Custom & Third-party)
+- [x] 15. What is Header in HTTP?
+- [x] 16. HTTP Status Codes
+- [x] 17. Intro to MongoDB & Mongoose
+- [x] 18. Connecting NodeJS with MongoDB
 ---
 
 ## Day 4
